@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.0166ba66.css",
+    "main.js": "/my-react-app/static/js/main.51d1ba39.js",
+    "static/js/453.c0dc0c80.chunk.js": "/my-react-app/static/js/453.c0dc0c80.chunk.js",
+    "static/media/woman-farmer.jpg": "/my-react-app/static/media/woman-farmer.24fafadf77e4ec2e7d46.jpg",
+    "static/media/jerry.jpg": "/my-react-app/static/media/jerry.96db0b23b6990c12530c.jpg",
+    "static/media/greeps.jpg": "/my-react-app/static/media/greeps.571783aeb4e9db34494b.jpg",
+    "static/media/fruti.jpg": "/my-react-app/static/media/fruti.b9685e4377a51cea4c25.jpg",
+    "static/media/orange.jpg": "/my-react-app/static/media/orange.dd2270b84b1937d63bdf.jpg",
+    "static/media/port.png": "/my-react-app/static/media/port.c5bb229e5badf4e8ceb6.png",
+    "static/media/four-points.png": "/my-react-app/static/media/four-points.4fd8440a02ed3e69b84e.png",
+    "static/media/lu-lu-flight.png": "/my-react-app/static/media/lu-lu-flight.3572512435db4ec9f06c.png",
+    "static/media/logo.png": "/my-react-app/static/media/logo.a1d84a5c95a1ab18f9d4.png",
+    "static/media/Holiday-Inn.jpg": "/my-react-app/static/media/Holiday-Inn.6511516d2c751b751288.jpg",
+    "static/media/old-man-farmer.jpg": "/my-react-app/static/media/old-man-farmer.4dacab62490d4e5d9fdf.jpg",
+    "static/media/Aster Medcity.png": "/my-react-app/static/media/Aster Medcity.286a27aaed1af1f2d408.png",
+    "static/media/big-basket.jpg": "/my-react-app/static/media/big-basket.f9f8ba35101caef78fd1.jpg",
+    "static/media/Hotel Aryaas.png": "/my-react-app/static/media/Hotel Aryaas.1aee8825c1b6d000aa64.png",
+    "static/media/saravanaaBhavan.jpg": "/my-react-app/static/media/saravanaaBhavan.1dfab1175dc8e958667f.jpg",
+    "static/media/Marriott-Hotels.png": "/my-react-app/static/media/Marriott-Hotels.b4c7abac78f92b0e8ebb.png",
+    "static/media/Al-Taza.png": "/my-react-app/static/media/Al-Taza.94562bc3269f43b39be8.png",
+    "static/media/le-meridien.jpg": "/my-react-app/static/media/le-meridien.d00b637c1e2324198abb.jpg",
+    "index.html": "/my-react-app/index.html",
+    "main.0166ba66.css.map": "/my-react-app/static/css/main.0166ba66.css.map",
+    "main.51d1ba39.js.map": "/my-react-app/static/js/main.51d1ba39.js.map",
+    "453.c0dc0c80.chunk.js.map": "/my-react-app/static/js/453.c0dc0c80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0166ba66.css",
+    "static/js/main.51d1ba39.js"
+  ]
+}
